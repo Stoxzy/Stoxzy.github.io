@@ -1,3 +1,6 @@
-body {
-  background-color: red;
-  ]
+.p {
+  position: absolut;
+  top: 50%;
+  left: 50%;
+  color: #a020f0;
+}
